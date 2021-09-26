@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @CruzCris
+- 👀 I’m interested in web security and videogames
+- 🌱 I’m currently learning to code
